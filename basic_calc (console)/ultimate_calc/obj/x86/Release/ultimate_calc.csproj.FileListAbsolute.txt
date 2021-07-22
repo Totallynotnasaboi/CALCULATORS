@@ -1,0 +1,3 @@
+/home/francesco/Projects/ultimate_calc/ultimate_calc/bin/Release/ultimate_calc.exe
+/home/francesco/Projects/ultimate_calc/ultimate_calc/obj/x86/Release/ultimate_calc.csproj.CoreCompileInputs.cache
+/home/francesco/Projects/ultimate_calc/ultimate_calc/obj/x86/Release/ultimate_calc.exe

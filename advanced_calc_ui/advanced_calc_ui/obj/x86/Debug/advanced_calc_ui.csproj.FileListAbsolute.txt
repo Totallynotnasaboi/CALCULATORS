@@ -1,0 +1,6 @@
+/home/francesco/Projects/advanced_calc_ui/advanced_calc_ui/bin/Debug/advanced_calc_ui.exe
+/home/francesco/Projects/advanced_calc_ui/advanced_calc_ui/bin/Debug/advanced_calc_ui.pdb
+/home/francesco/Projects/advanced_calc_ui/advanced_calc_ui/obj/x86/Debug/advanced_calc_ui.csprojAssemblyReference.cache
+/home/francesco/Projects/advanced_calc_ui/advanced_calc_ui/obj/x86/Debug/advanced_calc_ui.csproj.CoreCompileInputs.cache
+/home/francesco/Projects/advanced_calc_ui/advanced_calc_ui/obj/x86/Debug/advanced_calc_ui.exe
+/home/francesco/Projects/advanced_calc_ui/advanced_calc_ui/obj/x86/Debug/advanced_calc_ui.pdb
